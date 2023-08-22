@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Trash Bag
+* source:	https://sketchfab.com/3d-models/low-poly-trash-bag-69876d51e2f0462498b81dffe3387ae0
+* author:	tedpermana (https://sketchfab.com/tedpermana)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Trash Bag" (https://sketchfab.com/3d-models/low-poly-trash-bag-69876d51e2f0462498b81dffe3387ae0) by tedpermana (https://sketchfab.com/tedpermana) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

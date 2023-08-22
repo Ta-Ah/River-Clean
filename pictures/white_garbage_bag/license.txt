@@ -1,0 +1,11 @@
+Model Information:
+* title:	Garbage Bag White LOWPOLY
+* source:	https://sketchfab.com/3d-models/garbage-bag-white-lowpoly-77d0b3be9e2d4f7db60c5bdef05188b2
+* author:	EvanLegrand (https://sketchfab.com/evan4129)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Garbage Bag White LOWPOLY" (https://sketchfab.com/3d-models/garbage-bag-white-lowpoly-77d0b3be9e2d4f7db60c5bdef05188b2) by EvanLegrand (https://sketchfab.com/evan4129) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
